@@ -5,8 +5,8 @@ import discord
 import asyncio
 import re
 
-BOT_OWNER_ROLE = 'admin' # change to what you need
-#BOT_OWNER_ROLE_ID = "544387608378343446"
+BOT_OWNER_ROLE = 'owner' # change to what you need
+#BOT_OWNER_ROLE_ID = "569412986662289408"
 lock = asyncio.Lock()
 
 answer_scores = {
@@ -23,15 +23,8 @@ answer_scores_last = {
 }
 
 oot_channel_id_list = [
-    "538176524470190090",
-    "516780082619088905",
-    "523360037067030530",
-	"514915043796713482",
-	"496855838703616032",
-	"532833017706577930",
-	"544381529829146645",
-    "558136902885048329",
-    "559442345674670082" #test channel (zlex)
+    "525131707410677761",
+    "459842150323060736" #test channel (sagar)
 ]
 
 apgscore = 150
