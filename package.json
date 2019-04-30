@@ -2,12 +2,12 @@
     "name": "pandajil-bot",
     "version": "2.0.1",
     "description": "manager",
-    "main": "pandajil-bot.js",
+    "main": "pandajil-bot.py",
     "author": "TheNaman047",
     "scripts": {
-        "start": "node bot.js"
+        "start": "node bot.py"
     },
     "dependencies": {
-	"discord.js" : "11.2.1"
+	"discord.py" : "11.2.1"
 	}
 }
