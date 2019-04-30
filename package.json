@@ -5,7 +5,7 @@
     "main": "pandajil-bot.py",
     "author": "TheNaman047",
     "scripts": {
-        "start": "node bot.py"
+        "start": "discord bot.py"
     },
     "dependencies": {
 	"discord.py" : "11.2.1"
