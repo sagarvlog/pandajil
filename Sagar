@@ -1,0 +1,6 @@
+$nomention 
+$addReactions[
+$title[Member Count?]
+$color[ff12]
+$footer[wow, that's a lot of members!]
+$description[This server has $membersCount]]
