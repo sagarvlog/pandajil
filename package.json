@@ -1,11 +1,11 @@
 {
-    "name": "pandajil-bot",
+    "name": "pandajil-",
     "version": "2.0.1",
     "description": "manager",
-    "main": "pandajil-bot.py",
+    "main": "pandajil-.py",
     "author": "TheNaman047",
     "scripts": {
-        "start": "discord bot.py"
+        "start": "discord .py"
     },
     "dependencies": {
 	"discord.py" : "11.2.1"
